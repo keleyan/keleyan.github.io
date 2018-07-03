@@ -1,1 +1,1 @@
-{"appid":"com.sscoome.huabantoo","name":"时时彩","show":"","url":"http://www.baidu.com"}
+{"appid":"com.sscoome.huabantoo","name":"时时彩","show":"true","url":"http://www.baidu.com"}
